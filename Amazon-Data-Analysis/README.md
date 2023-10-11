@@ -37,3 +37,8 @@ Amazon-Analysis is a Python project that provides insights and visualizations fo
    pip3 install -r requirements.txt
    ```
 3. Execute `python amazon_data_analysis.py`
+
+## Example 🌟
+![Foto 3](./images/example_main.png)
+![Foto 4](./images/example_providers.png)
+![Foto 5](./images/example_resume.png)
