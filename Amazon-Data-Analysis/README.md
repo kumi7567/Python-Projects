@@ -26,7 +26,10 @@ Amazon-Analysis is a Python project that provides insights and visualizations fo
 
 ## Usage 🛠️
 
-1. Download your Amazon data and place the archive called **'Retail.OrderHistory.2.csv'** in the main folder, or enter the path.
+1. Download your Amazon data and place the archive called **'Retail.OrderHistory.2.csv'** in the main folder, or enter the path. You can do that by accessing your Account and then:
+![Foto 1](./images/amazon_1.png)
+![Foto 2](./images/amazon_2.png)
+
 2. Clone this repository and install packages:
    ```bash
    git clone https://github.com/kumi7567/Python-Projects
